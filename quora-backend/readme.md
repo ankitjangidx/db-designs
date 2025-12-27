@@ -9,4 +9,8 @@ Design a db for a quora like app
 	•	User can follow a topic also
 	•	You should be able to filter out questions based on topic
 
+
+	
+<img width="2456" height="2446" alt="quora_erd" src="https://github.com/user-attachments/assets/07d59ea3-4850-47a0-bf42-06417261701d" />
+
 	
